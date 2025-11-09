@@ -1,2 +1,2 @@
 # Gnomp
-Script to save your Gnome ricing
+gnome rice backup/restore script (worked for me)
