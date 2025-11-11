@@ -23,10 +23,10 @@ Before running, ensure you have the following tools installed:
 
 ## Installation
 
-1.  Save the script as `gnome_backup_restore.sh`.
+1.  Save the script as `gnomp.sh`.
 2.  Make the script executable:
     ```bash
-    chmod +x gnome_backup_restore.sh
+    chmod +x gnomp.sh
     ```
 
 ---
@@ -35,7 +35,7 @@ Before running, ensure you have the following tools installed:
 
 1.  Run the script in your terminal:
     ```bash
-    ./gnome_backup_restore.sh
+    ./gnomp.sh
     ```
 2.  Choose an option from the menu:
     * **1: Backup** - Creates a new backup of your current settings.
